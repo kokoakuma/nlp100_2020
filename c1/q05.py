@@ -1,6 +1,4 @@
 
-# import re
-
 # n-gramとは、連続するn個の単語や文字のまとまり
 # I am an PHPerをtri-gramで表すと、I am an と am an PHPer になる
 
